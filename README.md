@@ -1,3 +1,8 @@
+# ci-cd-final-project
+
+Final project for the CI/CD Tools and Practices course.
+This project demonstrates continuous integration and delivery using GitHub Actions and Tekton.
+
 # CI/CD Tools and Practices Final Project Template
 
 This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
